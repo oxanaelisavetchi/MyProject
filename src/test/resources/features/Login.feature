@@ -1,6 +1,6 @@
 Feature: feature to test login functionality
 
-
+@UI
   @ValidCredentials
   Scenario Outline: Check login is successful with valid credentials
 
